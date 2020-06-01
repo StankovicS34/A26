@@ -3,22 +3,22 @@
 	 if (b==1)
 	 switch(a){
 	 case 1:
-	 window.open("https://sh.wikipedia.org/wiki/Bas-gitara");
+	 window.open("https://sh.wikipedia.org/wiki/Bas-gitara", '_blank');
 	 break;
 	 case 2:
-	 window.open("https://sh.wikipedia.org/wiki/Truba");
+	 window.open("https://sh.wikipedia.org/wiki/Truba", '_blank');
 	 break;
 	 case 3:
-	 window.open("https://sh.wikipedia.org/wiki/Bubnjevi");
+	 window.open("https://sh.wikipedia.org/wiki/Bubnjevi", '_blank');
 	 break;
 	 case 4:
-	 window.open("https://sh.wikipedia.org/wiki/Flauta");
+	 window.open("https://sh.wikipedia.org/wiki/Flauta", '_blank');
 	 break;
 	 case 5:
-	  window.open("https://sh.wikipedia.org/wiki/Klavir");
+	  window.open("https://sh.wikipedia.org/wiki/Klavir", '_blank');
 	  break;
 	 case 6:
-	  window.open("https://sh.wikipedia.org/wiki/Klarinet");
+	  window.open("https://sh.wikipedia.org/wiki/Klarinet", '_blank');
 	  break;
 	   }
 
